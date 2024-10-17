@@ -7,6 +7,10 @@ export const metadata = {
   description: "Discover & Share AI Prompts",
 };
 const RootLayout = ({ children }) => {
+    // TODO : 
+    // Implement Search
+    // Implement Click on tag
+    // Implement View Other profiles
   return (
     <html lang="en">
       <body>
