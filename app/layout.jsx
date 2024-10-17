@@ -8,7 +8,7 @@ export const metadata = {
 };
 const RootLayout = ({ children }) => {
     // TODO : 
-    // Implement Search
+    // Implement Search by Prompt, tag, Username
     // Implement Click on tag
     // Implement View Other profiles
   return (
